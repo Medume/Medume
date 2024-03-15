@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [MSCIA Capstone](https://github.com/MichaelOmali/MSCIA-Capstone/blob/main/README.md)
-- [SOC automation Lab](https://github.com/MichaelOmali/SOC-Automation-Lab/edit/main/README.md)
+- [SOC automation Lab](https://github.com/MichaelOmali/SOC-Automation-Lab/blob/main/README.md)
 - [Database Design and Implementation ](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📃 Certifications</h2>
