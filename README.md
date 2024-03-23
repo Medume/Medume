@@ -10,4 +10,4 @@
 
 - [Certified Ethical Hacker](https://ibb.co/5LYDH90)
 - [CITI Program: Human Research: 1](https://ibb.co/PFZVCkm)
-- [CITI Program: Human Research: 2](https://ibb.co/JBm30X6)
+- [CITI Program: Human Research: 2](https://ibb.co/g3PdbZc)
