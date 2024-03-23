@@ -9,5 +9,5 @@
 <h2>📃 Certifications</h2>
 
 - [Certified Ethical Hacker](https://ibb.co/5LYDH90)
-- [CITI Program: Human Research](https://ibb.co/PFZVCkm)
-  
+- [CITI Program: Human Research: 1](https://ibb.co/PFZVCkm)
+- [CITI Program: Human Research: 2](https://ibb.co/JBm30X6)
