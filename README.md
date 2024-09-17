@@ -9,5 +9,6 @@
 <h2>📃 Certifications</h2>
 
 - [Certified Ethical Hacker](https://ibb.co/5LYDH90)
+- [Mastercard Cybersecurity Job Simulation](https://ibb.co/b1QM3xk)
 - [CITI Program: Human Research: 1](https://ibb.co/PFZVCkm)
 - [CITI Program: Human Research: 2](https://ibb.co/g3PdbZc)
