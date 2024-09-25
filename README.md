@@ -11,6 +11,7 @@
 - [Certified Ethical Hacker](https://ibb.co/5LYDH90)
 - [Mastercard Cybersecurity](https://ibb.co/b1QM3xk)
 - [Telstra Cybersecurity](https://ibb.co/ky99zc7)
+- [AIG Cybersecurity](https://ibb.co/8r4NmcK)
 - [CITI Program: Human Research: 1](https://ibb.co/PFZVCkm)
 - [CITI Program: Human Research: 2](https://ibb.co/g3PdbZc)
 
@@ -18,3 +19,4 @@
 
 - [Mastercard Cybersecurity Job Simulation](https://ibb.co/b1QM3xk)
 - [Telstra Cybersecurity Job Simulation](https://ibb.co/ky99zc7)
+- [AIG Cybersecurity Job Simulation](https://ibb.co/8r4NmcK)
