@@ -4,7 +4,8 @@
 
 - [MSCIA Capstone](https://github.com/Medume/MSCIA-Capstone)
 - [SOC automation Lab](https://github.com/Medume/SOC-Automation-Lab)
-- [Database Design and Implementation ](https://github.com/Medume/Database-Design-and-Implementation)
+- [Database Design and Implementation](https://github.com/Medume/Database-Design-and-Implementation)
+- [Network Traffic Investigation](https://github.com/Medume/Network-Traffic-Investigation)
 
 <h2>📃 Certifications</h2>
 
